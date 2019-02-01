@@ -1,0 +1,2 @@
+C:\Users\Mini\Downloads\Dokany-WinUnionFs\Dokany-WinUnionFs\obj\Debug\Dokany-WinUnionFs.csprojAssemblyReference.cache
+C:\Users\Mini\Downloads\Dokany-WinUnionFs\Dokany-WinUnionFs\obj\Debug\Dokany-WinUnionFs.csproj.CoreCompileInputs.cache
