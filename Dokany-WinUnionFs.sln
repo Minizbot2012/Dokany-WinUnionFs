@@ -1,31 +1,25 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28010.2048
+VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dokany-WinUnionFs", "Dokany-WinUnionFs\Dokany-WinUnionFs.csproj", "{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dokany-WinUnionFs", "Dokany-WinUnionFs\Dokany-WinUnionFs.csproj", "{BD0C7A7D-D56A-4D49-B65D-F2A4F42F36E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
-		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
-		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Debug|x64.ActiveCfg = Debug|x64
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Debug|x64.Build.0 = Debug|x64
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Release|x64.ActiveCfg = Release|x64
-		{AA49A46E-6D1E-4C0F-B032-C6A859D70F97}.Release|x64.Build.0 = Release|x64
+		{BD0C7A7D-D56A-4D49-B65D-F2A4F42F36E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0C7A7D-D56A-4D49-B65D-F2A4F42F36E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0C7A7D-D56A-4D49-B65D-F2A4F42F36E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0C7A7D-D56A-4D49-B65D-F2A4F42F36E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {38CD8EAC-B9F5-45D6-BD2E-2C4619D76849}
+		SolutionGuid = {0B4860FB-C807-4B23-A67C-6602213E0284}
 	EndGlobalSection
 EndGlobal
