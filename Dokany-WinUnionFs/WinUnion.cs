@@ -26,7 +26,6 @@ namespace Dokany_WinUnionFs
         MemoryCache mc = MemoryCache.Default;
         private CacheItemPolicy cip = new CacheItemPolicy();
         private ConsoleLogger logger = new ConsoleLogger("[Union] ");
-        private FS default_FS_RW;
         public WinUnion(List<FS> fses) {
             this.fsl = fses;
             cip.SlidingExpiration.Add(new TimeSpan(0,0,30));
