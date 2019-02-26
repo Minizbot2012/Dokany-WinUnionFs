@@ -1,0 +1,12 @@
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\Dokany-WinUnionFs.exe.config
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\Dokany-WinUnionFs.exe
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\Dokany-WinUnionFs.pdb
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\DokanNet.dll
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\de\DokanNet.resources.dll
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\fr\DokanNet.resources.dll
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\bin\x64\Debug\sv\DokanNet.resources.dll
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\obj\x64\Debug\Dokany-WinUnionFs.csprojAssemblyReference.cache
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\obj\x64\Debug\Dokany-WinUnionFs.csproj.CoreCompileInputs.cache
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\obj\x64\Debug\Dokany-WinUnionFs.csproj.CopyComplete
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\obj\x64\Debug\Dokany-WinUnionFs.exe
+C:\Users\bradl\Projects\dokany-winunionfs\Dokany-WinUnionFs\obj\x64\Debug\Dokany-WinUnionFs.pdb
